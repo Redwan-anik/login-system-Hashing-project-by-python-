@@ -1,3 +1,5 @@
+'''hashing project'''
+
 import hashlib
 
 
